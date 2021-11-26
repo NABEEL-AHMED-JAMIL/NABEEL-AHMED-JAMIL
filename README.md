@@ -6,10 +6,12 @@ I am a Computer Science Engineer with 5 years of experience in web design and de
 
 </p>
 
+<!--
 - 🔭 I’m currently working on an Ewallet product.
 - 🌱 I’m currently learning Java&Angular.
 - 💬 Ask me about Java, Angular, System design or any tech related stuff.
 - 😄 Pronouns: He/His
+
 
 <h3>Skills</h3>
 
@@ -53,12 +55,35 @@ I am a Computer Science Engineer with 5 years of experience in web design and de
 </table>
 
 **Languages and Tools:**  
+-->
+## ⚡ Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
+![IntelliJ IDEA](https://img.shields.io/badge/-intellijidea-black?style=for-the-badge&logo=intellijidea)
+![Spring Boot](https://img.shields.io/badge/-springboot-black?style=for-the-badge&logo=springboot)
+![Hibernate](https://img.shields.io/badge/-hibernate-black?style=for-the-badge&logo=hibernate)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=for-the-badge&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=for-the-badge&logo=bitbucket)
+
+
+# &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/NABEEL-AHMED-JAMIL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NABEEL-AHMED-JAMIL&theme=light&count_private=true&layout=compact" alt="Nabeel most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NABEEL-AHMED-JAMIL&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Nabeel most used languages" />
 </a>
 <a href="https://github.com/NABEEL-AHMED-JAMIL">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=NABEEL-AHMED-JAMIL&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Nabeel github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=NABEEL-AHMED-JAMIL&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nabeel github stats"/>
 </a>
 
 https://user-images.githubusercontent.com/58986949/115314310-805b2780-a1a7-11eb-8558-648a367ea231.mp4
