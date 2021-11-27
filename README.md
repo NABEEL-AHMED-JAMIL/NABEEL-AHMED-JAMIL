@@ -86,4 +86,4 @@ I am a Computer Science Engineer with 5 years of experience in web design and de
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NABEEL-AHMED-JAMIL&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nabeel github stats"/>
 </a>
 
-https://user-images.githubusercontent.com/58986949/115314310-805b2780-a1a7-11eb-8558-648a367ea231.mp4
+<!--https://user-images.githubusercontent.com/58986949/115314310-805b2780-a1a7-11eb-8558-648a367ea231.mp4-->
