@@ -84,8 +84,14 @@ NABEEL-AHMED-JAMIL/javamultiplex
 <a href="https://github.com/NABEEL-AHMED-JAMIL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NABEEL-AHMED-JAMIL&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Nabeel most used languages" />
 </a>
+
 <a href="https://github.com/NABEEL-AHMED-JAMIL">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NABEEL-AHMED-JAMIL&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nabeel github stats"/>
 </a>
+
+<a href="https://github.com/NABEEL-AHMED-JAMIL/NABEEL-AHMED-JAMIL">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NABEEL-AHMED-JAMIL&theme=dark" alt="NABEEL-AHMED-JAMIL" />
+</a>
+
 
 <!--https://user-images.githubusercontent.com/58986949/115314310-805b2780-a1a7-11eb-8558-648a367ea231.mp4-->
