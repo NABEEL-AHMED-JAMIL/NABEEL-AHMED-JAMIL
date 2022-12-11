@@ -1,4 +1,4 @@
-## Hey I'm Nabeel Ahmed! 👋
+## Hey I'm Nabeel Ahmed! 👋 (Open To Work)
 
 <h3>Summary</h3>
 <p>
