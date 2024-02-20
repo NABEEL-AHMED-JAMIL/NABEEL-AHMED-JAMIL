@@ -2,14 +2,14 @@
 
 <h3>Summary</h3>
 <p>
-I am a Computer Science Engineer with 7+ years of experience in web design and development using Java. Implemented front-end user interface technologies such as Angular and Ionic and hands-on experience in developing backend applications using RESTful services. Managed Software Methodologies like XP and Scrum. I am a problem solver, team player with excellent interpersonal skills that motivated and eager to broaden my knowledge to seek new opportunities andto participate in the company growth.
+I am a Computer Science Engineer with 8+ years of experience in web design and development using Java. Implemented front-end user interface technologies such as Angular and Ionic and hands-on experience in developing backend applications using RESTful services. Managed Software Methodologies like XP and Scrum. I am a problem solver, and team player with excellent interpersonal skills that motivated and eager to broaden my knowledge to seek new opportunities and participate in the company's growth.
 
 </p>
 
 <!--
 - 🔭 I’m currently working on an Ewallet product.
-- 🌱 I’m currently learning Java&Angular.
-- 💬 Ask me about Java, Angular, System design or any tech related stuff.
+- 🌱 I’m currently learning Java and angular.
+- 💬 Ask me about Java, Angular, Python, System design, or any tech-related stuff.
 - 😄 Pronouns: He/His
 
 
