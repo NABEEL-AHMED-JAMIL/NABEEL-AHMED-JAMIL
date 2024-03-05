@@ -6,14 +6,14 @@ I am a Computer Science Engineer with 8+ years of experience in web design and d
 
 </p>
 
-<!--
-- 🔭 I’m currently working on an Ewallet product.
+
+- 🔭 I’m currently working on an MOI QATAR product.
 - 🌱 I’m currently learning Java and angular.
 - 💬 Ask me about Java, Angular, Python, System design, or any tech-related stuff.
 - 😄 Pronouns: He/His
 
 
-<h3>Skills</h3>
+## ⚡ Technologies
 
 <table>
 	<tr>
@@ -26,7 +26,7 @@ I am a Computer Science Engineer with 8+ years of experience in web design and d
 	</tr>
   <tr>
 		<th>Frontend Technologies</th>
-		<td>JSP, Ajax, Angular 2+</td>
+		<td>JSP, Ajax, Angular 2+, Redux</td>
 	</tr>
   <tr>
 		<th>Database</th>
@@ -42,7 +42,7 @@ I am a Computer Science Engineer with 8+ years of experience in web design and d
 	</tr>
   <tr>
 		<th>Development tools</th>
-		<td>Eclipse, IntelliJ, Visual Studio, Git, Bitbucket,Postman, JMeter, Notepad++, WinSCP , Putty</td>
+		<td>Eclipse, IntelliJ, Visual Studio, Git, Bitbucket, Postman, JMeter, Notepad++, WinSCP, Putty</td>
 	</tr>
   <tr>
 		<th>SCM</th>
@@ -53,31 +53,6 @@ I am a Computer Science Engineer with 8+ years of experience in web design and d
 		<td>AWS, Azure</td>
 	</tr>
 </table>
-
-**Languages and Tools:**  
-
-NABEEL-AHMED-JAMIL/javamultiplex
--->
-## ⚡ Technologies
-
-![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/-springboot-black?style=for-the-badge&logo=springboot)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
-![Postgre](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgre)
-![Hibernate](https://img.shields.io/badge/-hibernate-black?style=for-the-badge&logo=hibernate)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=for-the-badge&logo=amazon-aws)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
-![IntelliJ IDEA](https://img.shields.io/badge/-intellijidea-black?style=for-the-badge&logo=intellijidea)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=for-the-badge&logo=bitbucket)
 
 # &#x1f4c8; GitHub Stats
 
