@@ -18,7 +18,7 @@ I am a Computer Science Engineer with 8+ years of experience in web design and d
 <table>
 	<tr>
 		<th>Programming Languages</th>
-		<td>JAVA, J2EE, JSP , Python, JavaScript, HTML, TypeScript</td>
+		<td>JAVA, J2EE, JSP, Python, JavaScript, HTML, TypeScript</td>
 	</tr>
   <tr>
 		<th>Frameworks</th>
@@ -30,7 +30,7 @@ I am a Computer Science Engineer with 8+ years of experience in web design and d
 	</tr>
   <tr>
 		<th>Database</th>
-		<td>Oracle, Postgres, MongoDB</td>
+		<td>Oracle, Postgres, MongoDB, DB2</td>
 	</tr>
   <tr>
 		<th>Search Engine</th>
