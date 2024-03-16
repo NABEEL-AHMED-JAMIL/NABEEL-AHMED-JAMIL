@@ -8,7 +8,7 @@ I am a Computer Science Engineer with 8 years of experience in web design and de
 
 
 - 🔭 I’m currently working on an MOI QATAR product.
-- 🌱 I’m currently learning Java and angular.
+- 🌱 I’m currently learning Java and angular or python and aws.
 - 💬 Ask me about Java, Angular, Python, System design, or any tech-related stuff.
 - 😄 Pronouns: He/His
 
