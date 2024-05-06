@@ -2,7 +2,7 @@
 
 <h3>Summary</h3>
 <p>
-I am a Computer Science Engineer with 9+ years of experience in web design and development using Java. Implemented front-end user interface technologies such as Angular and Ionic and hands-on experience in developing backend applications using RESTful services. Managed Software Methodologies like XP and Scrum. I am a problem solver, and team player with excellent interpersonal skills that motivated and eager to broaden my knowledge to seek new opportunities and participate in the company's growth.
+I am a Computer Science Engineer with 8+ years of experience in web design and development using Java. Implemented front-end user interface technologies such as Angular and Ionic and hands-on experience in developing backend applications using RESTful services. Managed Software Methodologies like XP and Scrum. I am a problem solver, and team player with excellent interpersonal skills that motivated and eager to broaden my knowledge to seek new opportunities and participate in the company's growth.
 
 </p>
 
