@@ -8,7 +8,7 @@ I am a Computer Science Engineer with 8+ years of experience in web design and d
 
 
 - 🔭 I’m currently working on an MOI QATAR product.
-- 🌱 I’m currently learning Java and angular or python and aws.
+- 🌱 I’m currently learning Java and angular or Python and AWS.
 - 💬 Ask me about Java, Angular, Python, System design, or any tech-related stuff.
 - 😄 Pronouns: He/His
 
@@ -51,6 +51,10 @@ I am a Computer Science Engineer with 8+ years of experience in web design and d
   <tr>
 		<th>Cloud Technologies</th>
 		<td>AWS, Azure</td>
+	</tr>
+	  <tr>
+		<th>Architecture</th>
+		<td>Domain Driven Design(DDD), Event Driven Architecture(EDA)</td>
 	</tr>
 </table>
 
