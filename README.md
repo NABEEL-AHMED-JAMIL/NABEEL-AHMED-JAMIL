@@ -54,7 +54,7 @@ I am a Computer Science Engineer with 8+ years of experience in web design and d
 	</tr>
 	  <tr>
 		<th>Architecture</th>
-		<td>Domain Driven Design(DDD), Event Driven Architecture(EDA)</td>
+		<td>Domain Driven Design(DDD), Event Driven Architecture(EDA), Rest API, Microservice</td>
 	</tr>
 </table>
 
