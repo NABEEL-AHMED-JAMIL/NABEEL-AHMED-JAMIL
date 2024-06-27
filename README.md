@@ -50,7 +50,7 @@ I am a Computer Science Engineer with 8+ years of experience in web design and d
 	</tr>
   <tr>
 		<th>Cloud Technologies</th>
-		<td>AWS, Azure</td>
+		<td>AWS, Azure, Firebase</td>
 	</tr>
 	  <tr>
 		<th>Architecture</th>
