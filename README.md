@@ -18,11 +18,11 @@ I am a Computer Science Engineer with 8+ years of experience in web design and d
 <table>
 	<tr>
 		<th>Programming Languages</th>
-		<td>JAVA, J2EE, JSP, Python, JavaScript, HTML, TypeScript</td>
+		<td>JAVA, Python, JavaScript, TypeScript</td>
 	</tr>
   <tr>
 		<th>Frameworks</th>
-		<td>Spring, Spring boot, nodeJs</td>
+		<td>Spring, Spring boot, Express.js</td>
 	</tr>
   <tr>
 		<th>Frontend Technologies</th>
