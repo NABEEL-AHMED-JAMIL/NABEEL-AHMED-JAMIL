@@ -1,65 +1,114 @@
-## Hey I'm Nabeel Ahmed! 👋 (Open To Work)
+# 👋 Hey, I'm Nabeel Ahmed!
 
-<h3>Summary</h3>
-<p>I am a Computer Science Engineer with 10+ years of experience in web design and development using Java. Implemented front-end user interface technologies such as Angular and Ionic and hands-on experience in developing backend applications using RESTful services. Managed Software Methodologies like XP and Scrum. I am a problem solver, and team player with excellent interpersonal skills that motivated and eager to broaden my knowledge to seek new opportunities and participate in the company's growth.</p>
+### 💼 Senior Full Stack Engineer | Java & Angular | System Design Enthusiast
 
-- 🔭 I’m currently working on an MOI QATAR product.
-- 🌱 I’m currently learning Java and angular or Python and AWS.
-- 💬 Ask me about Java, Angular, Python, System design, or any tech-related stuff.
-- 😄 Pronouns: He/His
+Welcome to my GitHub profile! I am a passionate Software Engineer with over **11+ years of experience** in designing and developing scalable enterprise applications.
 
-<div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NABEEL-AHMED-JAMIL&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NABEEL-AHMED-JAMIL&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NABEEL-AHMED-JAMIL&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NABEEL-AHMED-JAMIL&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NABEEL-AHMED-JAMIL&theme=transparent" height="180em" alt="Commitments"/>
-</div>
+---
 
+## 🚀 About Me
 
-## ⚡ Technologies
+- 🔭 **Currently Working At:** JPMorgan Chase as a Senior Software Engineer  
+- 🌱 **Learning:** Advanced System Design, Cloud Architecture, AWS, and AI-driven development  
+- 💬 **Ask me about:** Java, Spring Boot, Angular, Microservices, AWS, Kafka, System Design  
+- 😄 **Pronouns:** He / His  
+- 🌍 **Location:** Doha, Qatar  
+- 🎯 **Goal:** To become a Lead Software Engineer and Architect scalable systems  
 
-<table>
-	<tr>
-		<th>Programming Languages</th>
-		<td>JAVA, Python, JavaScript, TypeScript</td>
-	</tr>
-  <tr>
-		<th>Frameworks</th>
-		<td>Spring, Spring boot, Express.js</td>
-	</tr>
-  <tr>
-		<th>Frontend Technologies</th>
-		<td>JSP, Ajax, Angular 2+, Redux</td>
-	</tr>
-  <tr>
-		<th>Database</th>
-		<td>Oracle, Postgres, MongoDB, DB2</td>
-	</tr>
-  <tr>
-		<th>Search Engine</th>
-		<td>Lucene search, Elasticsearch</td>
-	</tr>
-  <tr>
-		<th>Web Servers</th>
-		<td>Tomcat, WebLogic</td>
-	</tr>
-  <tr>
-		<th>Development tools</th>
-		<td>Eclipse, IntelliJ, Visual Studio, Git, Bitbucket, Postman, JMeter, Notepad++, WinSCP, Putty</td>
-	</tr>
-  <tr>
-		<th>SCM</th>
-		<td>Git, SVN</td>
-	</tr>
-  <tr>
-		<th>Cloud Technologies</th>
-		<td>AWS, Azure, Firebase</td>
-	</tr>
-	  <tr>
-		<th>Architecture</th>
-		<td>Domain Driven Design(DDD), Event Driven Architecture(EDA), Rest API, Microservice</td>
-	</tr>
-</table>
+---
 
-<!--https://user-images.githubusercontent.com/58986949/115314310-805b2780-a1a7-11eb-8558-648a367ea231.mp4-->
+## 💼 Professional Summary
+
+I am a Computer Science Engineer with strong expertise in building **enterprise-grade backend systems** and **interactive front-end applications**. I have hands-on experience with:
+
+- Developing RESTful APIs and microservices  
+- Building high-performance Angular applications  
+- Cloud technologies and distributed systems  
+- Agile/Scrum development methodologies  
+- Event-driven architecture and system design  
+
+At **JPMorgan Chase**, I work on mission-critical financial systems, contributing to secure, scalable, and high-availability platforms.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+- Java (8–17)
+- Python
+- JavaScript / TypeScript
+
+### ⚙ Frameworks & Libraries
+- Spring Boot, Spring MVC, Spring Security, Spring Batch  
+- Hibernate, JPA  
+- Angular 2+, Redux  
+- Express.js  
+
+### 🌐 Frontend Technologies
+- HTML5, CSS3, Bootstrap  
+- Angular, AJAX, JSON, jQuery  
+
+### 🗄 Databases
+- PostgreSQL  
+- Oracle  
+- DB2  
+- MongoDB  
+
+### 🔍 Search & Messaging
+- Elasticsearch  
+- Kafka  
+
+### ☁ Cloud & DevOps
+- AWS (IAM, EC2, S3, Lambda, CLI)  
+- Azure  
+- Docker  
+- CI/CD Pipelines  
+
+### 🛠 Development Tools
+- IntelliJ IDEA, Eclipse, VS Code  
+- Git, Bitbucket  
+- Postman, JMeter  
+- WinSCP, Putty  
+
+### 🏗 Architecture
+- Microservices  
+- Domain Driven Design (DDD)  
+- Event Driven Architecture (EDA)  
+- REST API Design  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NABEEL-AHMED-JAMIL&theme=transparent" height="180em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NABEEL-AHMED-JAMIL&theme=transparent" height="180em"/>
+</p>
+
+---
+
+## 📌 What I’m Focused On
+
+- Building scalable backend systems  
+- Designing microservices architecture  
+- Improving performance and security  
+- Learning AI and Data Engineering  
+- Exploring Cloud-native technologies  
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: [Your LinkedIn Profile URL]
+- 📧 Email: [your.email@example.com]
+- 🌐 GitHub: https://github.com/NABEEL-AHMED-JAMIL
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy solving complex problems and transforming ideas into real-world software solutions!
+
+---
+
+⭐ *Feel free to explore my repositories and reach out for collaboration!*
