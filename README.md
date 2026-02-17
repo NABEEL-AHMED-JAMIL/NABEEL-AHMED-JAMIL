@@ -99,8 +99,8 @@ At **JPMorgan Chase**, I work on mission-critical financial systems, contributin
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: [Your LinkedIn Profile URL]
-- 📧 Email: [your.email@example.com]
+- 💼 LinkedIn: [[Nabeel Ahmed Jamil](https://www.linkedin.com/in/nabeel-ahmed93/)]
+- 📧 Email: nabeel.amd93@gmail.com
 - 🌐 GitHub: https://github.com/NABEEL-AHMED-JAMIL
 
 ---
@@ -111,4 +111,3 @@ I enjoy solving complex problems and transforming ideas into real-world software
 
 ---
 
-⭐ *Feel free to explore my repositories and reach out for collaboration!*
