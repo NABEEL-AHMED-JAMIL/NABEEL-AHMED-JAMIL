@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Nabeel Ahmed!
 
-### 💼 Senior Full Stack Engineer | Java & Angular | System Design Enthusiast
+### 💼 Java 17 | Spring Boot | Angular 17 | (AWS, Azure) | AI (Agent Tool, RAG) | Python 3
 
 Welcome to my GitHub profile! I am a passionate Software Engineer with over **11+ years of experience** in designing and developing scalable enterprise applications.
 
@@ -17,64 +17,27 @@ Welcome to my GitHub profile! I am a passionate Software Engineer with over **11
 
 ---
 
-## 💼 Professional Summary
-
-I am a Computer Science Engineer with strong expertise in building **enterprise-grade backend systems** and **interactive front-end applications**. I have hands-on experience with:
-
-- Developing RESTful APIs and microservices  
-- Building high-performance Angular applications  
-- Cloud technologies and distributed systems  
-- Agile/Scrum development methodologies  
-- Event-driven architecture and system design  
-
-At **JPMorgan Chase**, I work on mission-critical financial systems, contributing to secure, scalable, and high-availability platforms.
-
----
-
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
-- Java (8–17)
-- Python
-- JavaScript / TypeScript
-
-### ⚙ Frameworks & Libraries
-- Spring Boot, Spring MVC, Spring Security, Spring Batch  
-- Hibernate, JPA  
-- Angular 2+, Redux  
-- Express.js  
-
-### 🌐 Frontend Technologies
-- HTML5, CSS3, Bootstrap  
-- Angular, AJAX, JSON, jQuery  
-
-### 🗄 Databases
-- PostgreSQL  
-- Oracle  
-- DB2  
-- MongoDB  
-
-### 🔍 Search & Messaging
-- Elasticsearch  
-- Kafka  
-
-### ☁ Cloud & DevOps
-- AWS (IAM, EC2, S3, Lambda, CLI)  
-- Azure  
-- Docker  
-- CI/CD Pipelines  
-
-### 🛠 Development Tools
-- IntelliJ IDEA, Eclipse, VS Code  
-- Git, Bitbucket  
-- Postman, JMeter  
-- WinSCP, Putty  
-
-### 🏗 Architecture
-- Microservices  
-- Domain Driven Design (DDD)  
-- Event Driven Architecture (EDA)  
-- REST API Design  
+| **Category** | **Technologies / Tools** |
+|--------------|-------------------------|
+| **Languages** | Java (8–17), Python 3, TypeScript, JavaScript |
+| **Frameworks & Libraries** | Spring Boot, Spring MVC, Spring Security, Spring Batch, Spring Data JPA, Spring Cache, Spring Cloud, Spring AI, Hibernate, Struts 1.x/2.x, Angular 17+ |
+| **Front-End Technologies** | HTML5, DHTML, CSS3 (Bootstrap), JavaScript, AJAX, XML, JSON, jQuery 3.x, Angular Material, PrimeNG, Ant Design, ECharts, Chart.js, D3 |
+| **CI/CD & DevOps** | Docker, Kubernetes, Jenkins, GitHub Actions, AWS CodePipeline, Liquibase |
+| **Cloud Platforms** | AWS: EC2, S3, RDS, IAM, CloudWatch, ECR, ECS, EKS, Lambda, SNS, SQS, Route 53, EFS, KMS, DynamoDB, Aurora |
+| **Databases** | Oracle 11g/12c, MS SQL Server, MySQL (SQL & PL/SQL), MongoDB (NoSQL) |
+| **AI / ML / LLM Tools** | LangChain, RAG, Ollama, Azure OpenAI, OpenCV, OCR (Tesseract), Pandas, NumPy, GitHub Copilot |
+| **Batch & Workflow** | Spring Batch, AWS Step Functions |
+| **Messaging & Streaming** | Apache Kafka, AWS SQS |
+| **Caching** | Redis, AWS ElastiCache |
+| **Search & Indexing** | Apache Lucene, Elasticsearch, Logstash, Filebeat |
+| **Testing Tools** | JUnit, Postman, JMeter, SoapUI, Selenium |
+| **Build & Scripting** | Maven, Ant, Bash, JavaScript |
+| **Reporting Tools** | JasperReports, Apache POI, Apache Velocity |
+| **Web Services** | REST, GraphQL, SOAP, WebHooks, WebSockets, HTTP/TCP |
+| **Application Servers** | IBM WebSphere 8.x, Apache Tomcat 7.x, Oracle WebLogic 9 |
+| **Development Tools** | IntelliJ IDEA, VS Code, GitHub Desktop, DBeaver |
 
 ---
 
@@ -87,16 +50,6 @@ At **JPMorgan Chase**, I work on mission-critical financial systems, contributin
 
 ---
 
-## 📌 What I’m Focused On
-
-- Building scalable backend systems  
-- Designing microservices architecture  
-- Improving performance and security  
-- Learning AI and Data Engineering  
-- Exploring Cloud-native technologies  
-
----
-
 ## 🤝 Let’s Connect
 
 - 💼 LinkedIn: [[Nabeel Ahmed Jamil](https://www.linkedin.com/in/nabeel-ahmed93/)]
@@ -105,9 +58,4 @@ At **JPMorgan Chase**, I work on mission-critical financial systems, contributin
 
 ---
 
-### ⚡ Fun Fact
-
-I enjoy solving complex problems and transforming ideas into real-world software solutions!
-
----
 
