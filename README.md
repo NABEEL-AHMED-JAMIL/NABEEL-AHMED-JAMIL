@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am a passionate Software Engineer with over **11
 - 🌱 **Learning:** Advanced System Design, Cloud Architecture, AWS, and AI-driven development  
 - 💬 **Ask me about:** Java, Spring Boot, Angular, Microservices, AWS, Kafka, System Design  
 - 😄 **Pronouns:** He / His  
-- 🌍 **Location:** Doha, Qatar  
+- 🌍 **Location:** Chicago, USA  
 - 🎯 **Goal:** To become a Lead Software Engineer and Architect scalable systems  
 
 ---
